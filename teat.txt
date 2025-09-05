@@ -1,2 +1,13 @@
 this is practice repo
+<<<<<<< HEAD
 I am the 2nd puller .........
+=======
+this is second line
+this is third line
+this is fourth line
+this is fifth line
+this is sixth line
+>>>>>>> 972dd12dcce7670bd8e13ed6e98a82a180e0c484
+
+
+I am the 2nd puller ......
